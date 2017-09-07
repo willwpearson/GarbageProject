@@ -4,7 +4,7 @@ public class GarbageController
 {
 	public void start()
 	{
-		System.out.print("Ayyyy lmao.");
-		System.out.print("This project is dope.");
+		System.out.println("Ayyyy lmao.");
+		System.out.println("This project is dope.");
 	}
 }
