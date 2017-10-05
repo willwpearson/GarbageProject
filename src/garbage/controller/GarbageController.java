@@ -30,5 +30,6 @@ public class GarbageController
 		{
 			System.out.println("Hola");
 		}
+		
 	}
 }
