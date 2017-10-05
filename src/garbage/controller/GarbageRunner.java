@@ -6,5 +6,6 @@ public class GarbageRunner
 	{
 		GarbageController appController = new GarbageController();
 		appController.start();
+		appController.loop();
 	}
 }
